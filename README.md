@@ -1,3 +1,5 @@
+### 📓 自己紹介 
+マイクラで色々やってる自称技術勢
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cXr4bC9sPY) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/KaronDAAA) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]([https://www.youtube.com/@karon](https://www.youtube.com/@KaronDAAA)) 
