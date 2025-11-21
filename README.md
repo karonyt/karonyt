@@ -1,5 +1,5 @@
 ## 📓 自己紹介: 
-マイクラで色々やってる自称技術勢
+マイクラやNode.jsで色々やってるマルチクリエイター
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=karonyt&theme=bear&hide_border=false&include_all_commits=false&count_private=true)<br/>
