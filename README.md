@@ -12,14 +12,10 @@
   <img src="https://visitcount.itsvg.in/api?id=karonyt&icon=2&color=8" />
 </div>
 
----
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karonyt&theme=tokyonight" height="150" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karonyt&theme=tokyonight" height="150" />
 </div>
-
----
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karonyt&theme=tokyonight" />
